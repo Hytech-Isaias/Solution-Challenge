@@ -119,20 +119,6 @@ Event-driven microservices architecture providing:
 - **Tracing**: Jaeger for distributed request tracing
 - **Alerting**: AlertManager + Slack/Email integration
 
-## 💰 Investment & ROI
-
-### Project Investment
-- **Development**: $600K - $800K over 20 weeks
-- **Infrastructure**: $100K - $200K annually
-- **Team**: 6-8 engineers for 5 months
-- **Total**: $800K - $1.2M initial investment
-
-### Expected Returns
-- **Cost Savings**: $600K+ annually through improved efficiency
-- **Revenue Impact**: $300K+ annually through better candidate completion
-- **Competitive Advantage**: Immeasurable long-term value
-- **Payback Period**: 18 months
-
 ## 🚦 Risk Management
 
 ### Technical Risks (Low-Medium)
