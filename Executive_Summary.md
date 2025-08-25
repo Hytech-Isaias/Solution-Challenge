@@ -6,9 +6,6 @@
 
 **Solution**: Event-driven microservices architecture with real-time analytics, ML-powered risk scoring, and seamless human takeover capabilities.
 
-**Investment**: $800K - $1.2M over 20 weeks
-**Expected ROI**: 30% reduction in candidate drop-offs, 50% improvement in operator efficiency, 99.9% system availability
-
 ## Critical Business Problems Solved
 
 ### 1. Zero Visibility ➜ Real-Time Funnel Analytics
@@ -238,10 +235,5 @@ This solution transforms the recruitment platform from a "black box" into a tran
 2. **Scalable Growth**: Architecture supports 10x growth without redesign
 3. **Competitive Edge**: AI-powered insights unavailable in traditional systems
 4. **Future-Proof**: Extensible platform for continuous enhancement
-
-**Investment Summary:**
-- **Cost**: $800K - $1.2M over 20 weeks
-- **ROI**: 18-month payback through reduced hiring costs and improved efficiency
-- **Risk**: Low, with proven technologies and phased implementation approach
 
 The solution delivers immediate business value while building a platform for long-term competitive advantage in talent acquisition.
